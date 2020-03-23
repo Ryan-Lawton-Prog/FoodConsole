@@ -1,0 +1,9 @@
+G:\C# Projects\FoodConsole\FoodConsole\bin\Debug\FoodConsole.exe
+G:\C# Projects\FoodConsole\FoodConsole\bin\Debug\FoodConsole.pdb
+G:\C# Projects\FoodConsole\FoodConsole\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\C# Projects\FoodConsole\FoodConsole\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\C# Projects\FoodConsole\FoodConsole\obj\x86\Debug\FoodConsole.csproj.GenerateResource.Cache
+G:\C# Projects\FoodConsole\FoodConsole\obj\x86\Debug\FoodConsole.exe
+G:\C# Projects\FoodConsole\FoodConsole\obj\x86\Debug\FoodConsole.pdb
+G:\C# Projects\FoodConsole\FoodConsole\obj\x86\Debug\FoodConsole.csprojResolveAssemblyReference.cache
+G:\C# Projects\FoodConsole\FoodConsole\obj\x86\Debug\WindowsFormsApplication1.AboutBox1.resources
